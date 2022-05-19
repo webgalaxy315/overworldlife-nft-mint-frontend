@@ -1,2 +1,1 @@
-# Overworldlife-NFT-Mint-Frontend
-NFT Mint WebSite Frontend
+Overworldlife NFT Minting - Frontnend
